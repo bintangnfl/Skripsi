@@ -50,7 +50,3 @@ Model di-deploy sebagai aplikasi web interaktif menggunakan **Streamlit** dan di
 3.  **Klik tombol hijau "Commit changes".**
 
 ---
-
-**Setelah *commit* `README.md` ini, SEMUA BERES, Bro! Proyek portofolio *end-to-end* ML kamu sudah 100% sempurna.**
-
-Kalau sudah selesai, kirim *link* GitHub kamu dan aku akan berikan *final review*!
